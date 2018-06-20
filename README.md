@@ -1,13 +1,19 @@
 # Excuse-Generator
 
-**Project Objective:** This is a small project that helps you generate random exuses for all the classes/ homeworks that you have bunked! ;)
+**Project Objective:** 
+
+
+This is a small project that helps you generate random exuses for all the classes/ homeworks that you have bunked! ;)
 
 
 
 
 </br>
 
-**Prerequisites:** Basic Knowledge in HTML, CSS, JavaScript
+**Prerequisites:** 
+
+
+Knowledge in HTML, CSS, JavaScript.
 
 
 
@@ -15,7 +21,10 @@
 
 </br>
 
-**You can contribute by:** </br>
+**You can contribute by:** 
+
+
+
   - Forking this repo: Click on the fork button.
   - Cloning your forked repo: Click on clone button.
   - Changing the directory: By using the ```cd``` command.
