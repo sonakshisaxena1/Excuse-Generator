@@ -3,12 +3,11 @@
 **Project Objective:** 
 
 
-This is a small project that helps you generate random exuses for all the classes/ homeworks that you have bunked! ;)
+This is a small project that helps you generate random excuses for all the classes/ homeworks that you have bunked! ;)
 
 
 
 
-</br>
 
 **Prerequisites:** 
 
@@ -19,7 +18,7 @@ Knowledge in HTML, CSS, JavaScript.
 
 
 
-</br>
+
 
 **You can contribute by:** 
 
